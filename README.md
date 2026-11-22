@@ -2,6 +2,8 @@
 
 Ropilot Studio is an AI-assisted development app for Roblox creators. It pairs a desktop chat interface with a plugin inside Roblox Studio. A creator can describe a feature in plain English, and the assistant can inspect the open project, edit Luau scripts and UI, and run a playtest to check the result. For example, it can add a shop menu and then test whether a purchase updates the player's balance. [Ropilot product overview](https://ropilot.ai/)
 
+*THIS IS SAFE TO USE - IGNORE ROPILOT STAFF. YOU MAY CHECK THE SRC YOURSELF.**
+
 The app also integrates with Blender to create 3D models and animations and import them into Roblox Studio. [Ropilot Blender integration](https://ropilot.ai/#:~:text=Models%20and%20animations%2C%20not%20just%20scripts.)
 
 ## What's in this repository
